@@ -1,6 +1,7 @@
 # my own fixes
 .DS_Store
 .env
+speach_recognition/data*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
