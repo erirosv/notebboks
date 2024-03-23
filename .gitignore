@@ -2,6 +2,7 @@
 .DS_Store
 .env
 speach_recognition/data*
+myenv/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
